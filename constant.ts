@@ -2,13 +2,13 @@ import { IProfile } from "./types";
 
 export const profileData: IProfile = {
     hero: {
-        name: "Huzaifa Khan",
-        title: "MERN Stack Developer",
+        name: "Akhlaque Ahmed",
+        title: "Fronted Web Developer",
         subtitle: "Building scalable web applications with modern technologies",
-        resume: "https://drive.google.com/file/d/1zjaeq2r3iSCVFaPJ1tQ-hNXxTwsbjKoE/view",
+        resume: "https://drive.google.com/file/d/1e70g5eyXy7FKuy6Gc17CY32Y51oshRIZ/view",
         social_links: {
-            github: "https://github.com/Huzaifa-Khan-Official",
-            linkedin: "https://linkedin.com/in/huzaifa-khan-officia",
+            github: "https://github.com/Akhlaque-1",
+            linkedin: "https://www.linkedin.com/in/akhlaque-ahmed-2162b52b4/",
         },
     },
     about: {
@@ -33,23 +33,23 @@ export const profileData: IProfile = {
     },
     experiences: [
         {
-            title: "Web & App Development Trainer",
-            company: "SMIT, Karachi",
-            period: "Feb 2025 - Present",
-            description: "Conducted training sessions, mentored students, and developed course content.",
-            skills: ["Teaching", "Mentorship", "Curriculum Development"],
+            title: "Modern Web Development Student",
+            company: "SSMIT, GIAIC Karachi",
+            period: "Feb 2024 - 2026 Present",
+            description: " Learning and developed course content.",
+            skills: ["Teaching", "Curriculum Development"],
         },
         {
             title: "Full Stack Developer",
             company: "FoxMindTech",
-            period: "Dec 2024 - Feb 2025",
+            period: "Apr 2026 - Feb 2027",
             description: "Designed and developed full-stack applications using MERN stack.",
             skills: ["MERN", "API Integration", "Frontend Development", "Backend Development", "Cloud Deployment"],
         },
         {
             title: "Frontend Intern",
             company: "UxBolt",
-            period: "Sep 2024 - Nov 2024",
+            period: "Apr 2026 - Nov 2027",
             description: "Worked on UI development and optimized frontend performance.",
             skills: ["React.js", "Next.js", "TailwindCSS", "Ant Design"],
         },
@@ -70,8 +70,7 @@ export const profileData: IProfile = {
             images: ["/assets/Blogging Site Mockup.png"],
             technologies: ["MERN", "React.js", "MongoDB", "Express.js", "Node.js", "Zustand", "ImageKit"],
             links: {
-                live: "https://blogging-site-official.vercel.app/",
-                github: "https://github.com/Huzaifa-Khan-Official/Blogging-Site"
+                live: "https://blogging-site-official.vercel.app/"
             }
         },
         {
@@ -80,8 +79,7 @@ export const profileData: IProfile = {
             images: ["/assets/Animated Website Mockup.png", "/assets/Animated Website Mobile Devices Mockup.png"],
             technologies: ["React.js", "GSAP", "Tailwind CSS"],
             links: {
-                live: "https://gaming-animated-website.vercel.app/",
-                github: "https://github.com/Huzaifa-Khan-Official/Animated-Website"
+                live: "https://gaming-animated-website.vercel.app/"
             }
         },
         {
@@ -90,8 +88,7 @@ export const profileData: IProfile = {
             images: ["/assets/Chat App Mobile Mockup.png"],
             technologies: ["MERN", "Socket.io", "Cloudinary", "MongoDB", "Express.js", "React.js", "Node.js"],
             links: {
-                live: "https://chat-app-rq4w.onrender.com/",
-                github: "https://github.com/Huzaifa-Khan-Official/Chat-App"
+                live: "https://chat-app-rq4w.onrender.com/"
             }
         },
         {
@@ -100,8 +97,7 @@ export const profileData: IProfile = {
             images: ["/assets/RestaurantHub Mockup.png"],
             technologies: ["React.js", "Firebase", "Authentication", "Storage"],
             links: {
-                live: "https://restauranthub.vercel.app/",
-                github: "https://github.com/Huzaifa-Khan-Official/RestaurantHub"
+                live: "https://restauranthub.vercel.app/"
             }
         },
         {
@@ -110,8 +106,7 @@ export const profileData: IProfile = {
             images: ["/assets/Agency Website Mockup.png"],
             technologies: ["React.js", "Next.js", "Framer Motion", "React Bootstrap"],
             links: {
-                live: "https://next-agency-web.vercel.app/",
-                github: "https://github.com/Huzaifa-Khan-Official/next-agency-web"
+                live: "https://next-agency-web.vercel.app/"
             }
         },
         {
@@ -120,8 +115,7 @@ export const profileData: IProfile = {
             images: ["/assets/Reactfolio Mockup.jpg"],
             technologies: ["React.js", "Framer Motion", "React Responsive Carousel", "React Toastify", "React Type Animation"],
             links: {
-                live: "https://react-portfolio-maker.vercel.app",
-                github: "https://github.com/Huzaifa-Khan-Official/reactfolio"
+                live: "https://react-portfolio-maker.vercel.app"
             }
         },
         {
@@ -130,8 +124,7 @@ export const profileData: IProfile = {
             images: ["/assets/Assignment Submission Portal Mockup.png"],
             technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "Firebase"],
             links: {
-                live: "https://assignment-submission-portal.vercel.app/",
-                github: "https://github.com/Huzaifa-Khan-Official/Assignment-Submission-Portal-Frontend"
+                live: "https://assignment-submission-portal.vercel.app/"
             }
         },
     ],
@@ -189,63 +182,21 @@ export const profileData: IProfile = {
     ],
     certificates: [
         {
-            title: "Web & Mobile App Development",
+            title: "Coding Night 24 hours Certificate",            
             issuer: "S.M.I.T (Saylani Mass I.T Training)",
             date: "February 2025",
             image: "/assets/certificates/Web & App Development SMIT Certificate.png",
         },
         {
-            title: 'JavaScript Essentials 1',
-            issuer: 'CISCO Networking Academy',
-            date: 'November 2024',
-            image: '/assets/certificates/JavaScript_Essentials_1.png',
-        },
-        {
-            title: 'JavaScript Essentials 2',
-            issuer: 'CISCO Networking Academy',
-            date: 'November 2024',
-            image: '/assets/certificates/JavaScript_Essentials_2.png',
-        },
-        {
-            title: 'Responsive Web Design',
-            issuer: 'freeCodeCamp',
-            date: 'October 2023',
-            image: '/assets/certificates/Responsive Web Design Certificate.png',
-        },
-        {
-            title: 'JavaScript Algorithms and Data Structures (Beta)',
-            issuer: 'freeCodeCamp',
-            date: 'August 2024',
-            image: '/assets/certificates/JavaScript Algorithms and Data Structures (Beta) Certificate.png',
-        },
-        {
-            title: 'Communication & Soft Skils',
-            issuer: 'DigiSkills',
-            date: 'October 2022',
-            image: '/assets/certificates/communication & soft skils certificate.png',
-        },
-        {
-            title: 'Google Soft Skills',
-            issuer: 'Google',
-            date: 'Descember 2024',
-            image: '/assets/certificates/google-soft-skills-program-certificate.png',
-        },
-        {
-            title: 'Python Fundamentals Diploma',
-            issuer: 'Alison',
-            date: 'February 2023',
-            image: '/assets/certificates/Python Fundamentals Diploma Certificate.png',
-        },
-        {
             title: 'Python Programming Essential',
             issuer: 'CISCO Networking Academy',
-            date: 'March 2022',
+            date: 'March 2023',
             image: '/assets/certificates/Python-Programming Essential-certificate.png',
         },
     ],
     contact: {
-        email: "huzaifakhanofficial01@gmail.com",
-        phone: "+92-3322433615",
+        email: "akhlaqueahmed397@gmail.com",
+        phone: "+92-3263210054",
         address: "Metroville, Karachi, Pakistan",
     },
     year: new Date().getFullYear(),
