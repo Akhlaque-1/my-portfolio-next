@@ -2,11 +2,11 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { ThemeProvider } from "@/components/theme-provider";
 
-const APP_NAME = "Huzaifa Khan";
-const APP_DEFAULT_TITLE = "Huzaifa Khan | Portfolio";
-const APP_TITLE_TEMPLATE = "%s - Huzaifa Khan";
-const APP_DESCRIPTION = "Showcasing Huzaifa Khan's skills, projects, and expertise in web development. Explore top-notch projects and innovative solutions.";
-const APP_KEYWORDS = ["Huzaifa Khan", "Huzaifa Khan Portfolio", "Portfolio", "Web Developer", "Full Stack Developer", "Next.js", "React", "JavaScript", "Frontend", "Backend", "Projects", "Software Engineer"];
+const APP_NAME = "Akhlaque Ahmed";
+const APP_DEFAULT_TITLE = "Akhlaque Ahmed | Portfolio";
+const APP_TITLE_TEMPLATE = "%s - Akhlaque Ahmed";
+const APP_DESCRIPTION = "Showcasing Akhlaque Ahmed's skills, projects, and expertise in web development. Explore top-notch projects and innovative solutions.";
+const APP_KEYWORDS = ["Akhlaque Ahmed", "Akhlaque Ahmed Portfolio", "Portfolio", "Web Developer", "Full Stack Developer", "Next.js", "React", "JavaScript", "Frontend", "Backend", "Projects", "Software Engineer"];
 
 export const metadata: Metadata = {
   applicationName: APP_NAME,
